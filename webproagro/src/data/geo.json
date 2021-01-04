@@ -1,0 +1,559 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+        {
+			"idGeorreferencia": 1,
+			"idEstado": 1,
+			"latitud": 21.13180225,
+			"longitud": -89.50884361,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 2,
+			"idEstado": 1,
+			"latitud": 22.302625,
+			"longitud": 102.2263139,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 3,
+			"idEstado": 1,
+			"latitud": 23.2336,
+			"longitud": 103.3168167,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 4,
+			"idEstado": 1,
+			"latitud": 23.23353333,
+			"longitud": 103.3335528,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 5,
+			"idEstado": 1,
+			"latitud": 22.07935,
+			"longitud": 102.0409833,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 6,
+			"idEstado": 1,
+			"latitud": 22.39769444,
+			"longitud": 102.2899333,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 7,
+			"idEstado": 1,
+			"latitud": 22.39863333,
+			"longitud": 102.2900556,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 8,
+			"idEstado": 1,
+			"latitud": 21.98357222,
+			"longitud": 102.2667667,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 9,
+			"idEstado": 1,
+			"latitud": 21.9836,
+			"longitud": 102.2502306,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 10,
+			"idEstado": 1,
+			"latitud": 22.616775,
+			"longitud": 102.2335389,
+			"estados": {
+				"idEstado": 1,
+				"estado": "AGUASCALIENTES",
+				"abreviatura": "AGS"
+			}
+		},
+		{
+			"idGeorreferencia": 11,
+			"idEstado": 5,
+			"latitud": 25.506789,
+			"longitud": -102.2433589,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 12,
+			"idEstado": 5,
+			"latitud": 25.50705411,
+			"longitud": -102.2443927,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 13,
+			"idEstado": 5,
+			"latitud": 26.30458298,
+			"longitud": -103.0647895,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 14,
+			"idEstado": 5,
+			"latitud": 26.30687434,
+			"longitud": -103.0620606,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 15,
+			"idEstado": 5,
+			"latitud": 26.30047677,
+			"longitud": -103.0553136,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 16,
+			"idEstado": 5,
+			"latitud": 26.29786489,
+			"longitud": -103.0583045,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 17,
+			"idEstado": 5,
+			"latitud": 26.30464132,
+			"longitud": -103.0648854,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 18,
+			"idEstado": 5,
+			"latitud": 26.30694835,
+			"longitud": -103.0622138,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 19,
+			"idEstado": 5,
+			"latitud": 26.31341072,
+			"longitud": -103.0691436,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 20,
+			"idEstado": 5,
+			"latitud": 26.31077704,
+			"longitud": -103.0722422,
+			"estados": {
+				"idEstado": 5,
+				"estado": "COAHUILA",
+				"abreviatura": "COAH"
+			}
+		},
+		{
+			"idGeorreferencia": 21,
+			"idEstado": 25,
+			"latitud": 24.20180556,
+			"longitud": 107.1031389,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 22,
+			"idEstado": 25,
+			"latitud": 2.201583333,
+			"longitud": 107.1035556,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 23,
+			"idEstado": 25,
+			"latitud": 24.22061111,
+			"longitud": 107.1337222,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 24,
+			"idEstado": 25,
+			"latitud": 24.22238889,
+			"longitud": 107.1337222,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 25,
+			"idEstado": 25,
+			"latitud": 24.10958333,
+			"longitud": 107.0839722,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 26,
+			"idEstado": 25,
+			"latitud": 24.11113889,
+			"longitud": 107.08325,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 27,
+			"idEstado": 25,
+			"latitud": 24.10941667,
+			"longitud": 107.0788889,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 28,
+			"idEstado": 25,
+			"latitud": 24.10727778,
+			"longitud": 107.0763611,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 29,
+			"idEstado": 25,
+			"latitud": 24.21880556,
+			"longitud": 107.1337778,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 30,
+			"idEstado": 25,
+			"latitud": 24.22055556,
+			"longitud": 107.13375,
+			"estados": {
+				"idEstado": 25,
+				"estado": "SINALOA",
+				"abreviatura": "SIN"
+			}
+		},
+		{
+			"idGeorreferencia": 31,
+			"idEstado": 14,
+			"latitud": 20.62366667,
+			"longitud": 103.8016111,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 32,
+			"idEstado": 14,
+			"latitud": 20.44083333,
+			"longitud": 103.9239167,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 33,
+			"idEstado": 14,
+			"latitud": 20.48036111,
+			"longitud": 103.9556111,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 34,
+			"idEstado": 14,
+			"latitud": 20.48425,
+			"longitud": 103.9726389,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 35,
+			"idEstado": 14,
+			"latitud": 19.88372222,
+			"longitud": 103.372,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 36,
+			"idEstado": 14,
+			"latitud": 19.62819444,
+			"longitud": 103.7716944,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 37,
+			"idEstado": 14,
+			"latitud": 19.64733333,
+			"longitud": 103.7284444,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 38,
+			"idEstado": 14,
+			"latitud": 19.65225,
+			"longitud": 103.7428056,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 39,
+			"idEstado": 14,
+			"latitud": 19.65730556,
+			"longitud": 103.7916111,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 40,
+			"idEstado": 14,
+			"latitud": 19.5935,
+			"longitud": 103.8120556,
+			"estados": {
+				"idEstado": 14,
+				"estado": "JALISCO",
+				"abreviatura": "JAL"
+			}
+		},
+		{
+			"idGeorreferencia": 41,
+			"idEstado": 28,
+			"latitud": 25.74877778,
+			"longitud": 97.57894444,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 42,
+			"idEstado": 28,
+			"latitud": 25.30605556,
+			"longitud": 97.86688889,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 43,
+			"idEstado": 28,
+			"latitud": 25.30605556,
+			"longitud": 97.86688889,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 44,
+			"idEstado": 28,
+			"latitud": 24.61438889,
+			"longitud": 97.91577778,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 45,
+			"idEstado": 28,
+			"latitud": 25.31441667,
+			"longitud": 97.79305556,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 46,
+			"idEstado": 28,
+			"latitud": 24.61452778,
+			"longitud": 97.91575,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 47,
+			"idEstado": 28,
+			"latitud": 25.29966667,
+			"longitud": 97.85988889,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 48,
+			"idEstado": 28,
+			"latitud": 25.29966667,
+			"longitud": 97.85988889,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 49,
+			"idEstado": 28,
+			"latitud": 25.74986111,
+			"longitud": 97.60216667,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		},
+		{
+			"idGeorreferencia": 50,
+			"idEstado": 28,
+			"latitud": 25.74986111,
+			"longitud": 97.60218611,
+			"estados": {
+				"idEstado": 28,
+				"estado": "TAMAULIPAS",
+				"abreviatura": "TAMP"
+			}
+		}
+    ]
+  }
